@@ -8,4 +8,4 @@ Text added locally
 
 Text added in new branch
 
-Conflict situation while merging
+Conflict situation while merging in web-browser
